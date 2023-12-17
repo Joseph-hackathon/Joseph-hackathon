@@ -17,6 +17,12 @@ Please enjoy.
   👑 Result: Chainlink Top Quality Projects (In the Top 20)
 
   👨🏼‍💻 Role: Product Manaer (PM)
+  - Function Docs
+  - Prototype
+  - I.A
+  - UserFlow
+  - Presentation
+  - Summary for the meeting reports & Devpost contents
 
   📢 Demo: [Devpost](https://devpost.com/software/not-yet-6rw8c2)
 <br></br>
