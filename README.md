@@ -40,6 +40,23 @@ Please enjoy.
 
   📢 Demo: [ETHGlobal Showcase](https://ethglobal.com/showcase/discovey-tuywc)
 <br></br>
+> November 8 – December 10, 2023 / [**Constellation: A Chainlink Hackathon**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETHGlobal%202023%20Online.md)
+
+  📶 Project name: Re-Fresh
+  
+  👑 Result: Coming soon (December 21)
+
+  👨🏼‍💻 Role: Product Manaer (PM)
+  - Ideation
+  - Planning
+  - Function Docs
+  - Prototype
+  - UserFlow
+  - Presentation
+  - Summary for the meeting reports & Devpost contents
+
+  📢 Demo: [Re-Fresh Platform](https://refresh.hackathemy.me/)
+<br></br>
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=90&section=footer)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoesph-hackathon%2Fhit-counter&count_bg=%23D76FEF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
