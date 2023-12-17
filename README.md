@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Joseph%20in%20Hackathon%20Portfolio&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Joseph%20in%20Hackathon%20Portfolio&fontSize=40&animation=fadeIn&fontAlignY=38)
 
 # 😄 I'm Project Manager
 This section contains portfolios and reviews of hackathons we have participated in so far.
