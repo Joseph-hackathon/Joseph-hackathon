@@ -40,7 +40,7 @@ Please enjoy.
 
   📢 Demo: [ETHGlobal Showcase](https://ethglobal.com/showcase/discovey-tuywc)
 <br></br>
-> November 8 – December 10, 2023 / [**Constellation: A Chainlink Hackathon**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETHGlobal%202023%20Online.md)
+> November 8 – December 10, 2023 / [**Constellation: A Chainlink Hackathon**](https://github.com/Joseph-hackathon/hackathon/blob/main/Constellation%3A%20A%20Chainlink%20Hackathon.md)
 
   📶 Project name: Re-Fresh
   
