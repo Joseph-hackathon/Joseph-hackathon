@@ -33,6 +33,10 @@ Please enjoy.
   👑 Result: 🥉 Safe — Best Use of Safe{Core} for AA
 
   👨🏼‍💻 Role: Product Manaer (PM)
+  - Function Docs
+  - Prototype
+  - Presentation
+  - Summary for the meeting reports & ETHGlobal contents
 
   📢 Demo: [ETHGlobal Showcase](https://ethglobal.com/showcase/discovey-tuywc)
 <br></br>
