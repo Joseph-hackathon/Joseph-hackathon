@@ -44,7 +44,7 @@ Please enjoy.
 
   📶 Project name: Re-Fresh
   
-  👑 Result: Coming soon (December 21)
+  👑 Result: Award failure
 
   👨🏼‍💻 Role: Product Manaer (PM)
   - Ideation
