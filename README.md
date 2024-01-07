@@ -15,7 +15,7 @@ Please enjoy.
   
   👑 Result: Chainlink Top Quality Projects (In the Top 20)
 
-  👨🏼‍💻 Role: Product Manaer (PM)
+  👨🏼‍💻 Role: Product Manager (PM)
   - Function Docs
   - Prototype
   - I.A
@@ -31,7 +31,7 @@ Please enjoy.
   
   👑 Result: 🥉 Safe — Best Use of Safe{Core} for AA
 
-  👨🏼‍💻 Role: Product Manaer (PM)
+  👨🏼‍💻 Role: Product Manager (PM)
   - Function Docs
   - Prototype
   - Presentation
@@ -45,7 +45,7 @@ Please enjoy.
   
   👑 Result: Award failure
 
-  👨🏼‍💻 Role: Product Manaer (PM)
+  👨🏼‍💻 Role: Product Manager (PM)
   - Ideation
   - Planning
   - Function Docs
