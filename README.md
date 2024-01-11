@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hackathon%20Review&fontSize=40&animation=fadeIn&fontAlignY=38)
 
-# 😄 I'm Project Manager
+# 😄 I'm Product Manager
 This section contains portfolios and reviews of hackathons we have participated in so far.
 Please enjoy.
 
