@@ -55,6 +55,26 @@ Please enjoy.
   - Summary for the meeting reports & Devpost contents
 
   📢 Demo: [Re-Fresh Platform](https://refresh.hackathemy.me/)
+  <br></br>
+> January 12 – Jaunary 24, 2024 / [**ETHGlobal: LFGHO**](https://github.com/Joseph-hackathon/hackathon/blob/main/Constellation%3A%20A%20Chainlink%20Hackathon.md)
+
+  📶 Project name: 
+  1. Re-Fresh
+  2. Not yet
+  
+  👑 Result: Not yet
+
+  👨🏼‍💻 Role: Product Manager (PM)
+  - Ideation
+  - Planning
+  - Function Docs
+  - Prototype
+  - UserFlow
+  - Presentation
+  - Summary for the meeting reports & ETHGlobal contents
+
+  📢 Demo: 
+  [Re-Fresh Platform](https://refresh.hackathemy.me/)
 <br></br>
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=90&section=footer)
 
