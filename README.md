@@ -74,7 +74,7 @@ Please enjoy.
   - Summary for the meeting reports & ETHGlobal contents
 
   📢 Demo: 
-  [ETHGlobal Showcase GHO Crowdfunding](https://ethglobal.com/showcase/gho-crowdfunding-pig7a)
+  <br>[ETHGlobal Showcase GHO Crowdfunding](https://ethglobal.com/showcase/gho-crowdfunding-pig7a)</br>
   [ETHGlobal Showcase GCLC](https://ethglobal.com/showcase/gclc-9vtzp)
 <br></br>
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=90&section=footer)
