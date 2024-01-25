@@ -59,10 +59,10 @@ Please enjoy.
 > January 12 – Jaunary 24, 2024 / [**ETHGlobal: LFGHO**](https://github.com/Joseph-hackathon/hackathon/blob/main/Constellation%3A%20A%20Chainlink%20Hackathon.md)
 
   📶 Project name: 
-  1. Re-Fresh
-  2. Not yet
+  1. GHO Crowdfunding
+  2. GCLC (GHO Credit Loan Card)
   
-  👑 Result: Not yet
+  👑 Result: Award failure
 
   👨🏼‍💻 Role: Product Manager (PM)
   - Ideation
@@ -74,7 +74,8 @@ Please enjoy.
   - Summary for the meeting reports & ETHGlobal contents
 
   📢 Demo: 
-  [Re-Fresh Platform](https://refresh.hackathemy.me/)
+  [ETHGlobal Showcase GHO Crowdfunding](https://ethglobal.com/showcase/gho-crowdfunding-pig7a)
+  [ETHGlobal Showcase GCLC](https://ethglobal.com/showcase/gclc-9vtzp)
 <br></br>
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=90&section=footer)
 
