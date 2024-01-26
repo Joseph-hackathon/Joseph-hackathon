@@ -56,7 +56,7 @@ Please enjoy.
 
   📢 Demo: [Re-Fresh Platform](https://refresh.hackathemy.me/)
   <br></br>
-> January 12 – Jaunary 24, 2024 / [**ETHGlobal: LFGHO**](LFGHO Hackathon.md)
+> January 12 – Jaunary 24, 2024 / [**ETHGlobal: LFGHO**](https://github.com/Joseph-hackathon/hackathon/blob/main/LFGHO%20Hackathon.md)
 
   📶 Project name: 
   1. GHO Crowdfunding
