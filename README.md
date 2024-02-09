@@ -14,15 +14,9 @@ Please enjoy.
   🛫 Project name: Trypto
   
   👑 Result: Chainlink Top Quality Projects (In the Top 20)
-
+  
   👨🏼‍💻 Role: Product Manager (PM)
-  - Function Docs
-  - Prototype
-  - I.A
-  - UserFlow
-  - Presentation
-  - Summary for the meeting reports & Devpost contents
-
+  
   📢 Demo: [Devpost](https://devpost.com/software/not-yet-6rw8c2)
 <br></br>
 > October 6 – 27, 2023 / [**ETHGlobal 2023 Online**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETHGlobal%202023%20Online.md)
@@ -30,13 +24,9 @@ Please enjoy.
   📶 Project name: Discovey
   
   👑 Result: 🥉 Safe — Best Use of Safe{Core} for AA
-
+  
   👨🏼‍💻 Role: Product Manager (PM)
-  - Function Docs
-  - Prototype
-  - Presentation
-  - Summary for the meeting reports & ETHGlobal contents
-
+  
   📢 Demo: [ETHGlobal Showcase](https://ethglobal.com/showcase/discovey-tuywc)
 <br></br>
 > November 8 – December 10, 2023 / [**Constellation: A Chainlink Hackathon**](https://github.com/Joseph-hackathon/hackathon/blob/main/Constellation%3A%20A%20Chainlink%20Hackathon.md)
@@ -44,39 +34,35 @@ Please enjoy.
   📶 Project name: Re-Fresh
   
   👑 Result: Award failure
-
+  
   👨🏼‍💻 Role: Product Manager (PM)
-  - Ideation
-  - Planning
-  - Function Docs
-  - Prototype
-  - UserFlow
-  - Presentation
-  - Summary for the meeting reports & Devpost contents
-
+  
   📢 Demo: [Re-Fresh Platform](https://refresh.hackathemy.me/)
   <br></br>
-> January 12 – Jaunary 24, 2024 / [**ETHGlobal: LFGHO**](https://github.com/Joseph-hackathon/hackathon/blob/main/LFGHO%20Hackathon.md)
+> January 12 – 24, 2024 / [**ETHGlobal: LFGHO**](https://github.com/Joseph-hackathon/hackathon/blob/main/LFGHO%20Hackathon.md)
 
   📶 Project name: 
   1. GHO Crowdfunding
   2. GCLC (GHO Credit Loan Card)
   
   👑 Result: Award failure
-
+  
   👨🏼‍💻 Role: Product Manager (PM)
-  - Ideation
-  - Planning
-  - Function Docs
-  - Prototype
-  - UserFlow
-  - Presentation
-  - Summary for the meeting reports & ETHGlobal contents
-
+  
   📢 Demo: 
   <br>[ETHGlobal Showcase GHO Crowdfunding](https://ethglobal.com/showcase/gho-crowdfunding-pig7a)</br>
   [ETHGlobal Showcase GCLC](https://ethglobal.com/showcase/gclc-9vtzp)
 <br></br>
+> February 2 – 21, 2024 / [**ETHGlobal: Circuit Breaker**](https://github.com/Joseph-hackathon/hackathon/blob/main/Constellation%3A%20A%20Chainlink%20Hackathon.md)
+
+  📶 Project name: ZK-Conhub (Constrallation Hub)
+  
+  👑 Result: Not yet
+  
+  👨🏼‍💻 Role: Product Manager (PM)
+  
+  📢 Demo: [ETHGlobal Showcase ZK-Conhub](https://ethglobal.com/showcase/zk-conhub-yfk7g)
+  <br></br>
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=90&section=footer)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoesph-hackathon%2Fhit-counter&count_bg=%23D76FEF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
