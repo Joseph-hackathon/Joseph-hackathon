@@ -55,13 +55,13 @@ Please enjoy.
 <br></br>
 > February 2 – 21, 2024 / [**ETHGlobal: Circuit Breaker**](https://github.com/Joseph-hackathon/hackathon/blob/main/Constellation%3A%20A%20Chainlink%20Hackathon.md)
 
-  📶 Project name: ZK-Conhub (Constrallation Hub)
+  📶 Project name: ZK-LinkHub
   
   👑 Result: Not yet
   
   👨🏼‍💻 Role: Product Manager (PM)
   
-  📢 Demo: [ETHGlobal Showcase ZK-Conhub](https://ethglobal.com/showcase/zk-conhub-yfk7g)
+  📢 Demo: [ETHGlobal Showcase ZK-LinkHub](https://ethglobal.com/showcase/zk-conhub-yfk7g)
   <br></br>
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=90&section=footer)
 
