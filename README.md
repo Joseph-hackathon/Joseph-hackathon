@@ -53,7 +53,7 @@ Please enjoy.
   <br>[ETHGlobal Showcase GHO Crowdfunding](https://ethglobal.com/showcase/gho-crowdfunding-pig7a)</br>
   [ETHGlobal Showcase GCLC](https://ethglobal.com/showcase/gclc-9vtzp)
 <br></br>
-> February 2 – 21, 2024 / [**ETHGlobal: Circuit Breaker**](https://github.com/Joseph-hackathon/hackathon/blob/main/Constellation%3A%20A%20Chainlink%20Hackathon.md)
+> February 2 – 21, 2024 / [**ETHGlobal: Circuit Breaker**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETHGlobal%3A%20Circuit%20Breaker.md)
 
   📶 Project name: ZK-LinkHub
   
