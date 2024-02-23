@@ -57,7 +57,7 @@ Please enjoy.
 
   📶 Project name: ZK-LinkHub
   
-  👑 Result: Not yet
+  👑 Result: Award failure
   
   👨🏼‍💻 Role: Product Manager (PM)
   
