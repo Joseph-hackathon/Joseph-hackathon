@@ -73,6 +73,16 @@ Please enjoy.
   
   📢 Demo: [Dynamic Boy Platform](https://gameboy.web.app/)
 <br></br>
+> Mar 29 – 31, 2024 / [**ETH Seoul 2024**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETHGlobal%3A%20Circuit%20Breaker.md)
+
+  📶 Project name: AI Guard Snap
+  
+  👑 Result: Award failure
+  
+  👨🏼‍💻 Role: Product Manager (PM)
+  
+  📢 Demo: [Devfolio Show case AI Guard Snap](https://devfolio.co/projects/dappassistants-9d92)
+<br></br>
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=90&section=footer)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoesph-hackathon%2Fhit-counter&count_bg=%23D76FEF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
