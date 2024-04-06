@@ -25,7 +25,7 @@ Please enjoy.
 <br></br>
 > Mar 22 – 24, 2024 / [**ETHGlobal: Frameworks**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETHGlobal:%20Frameworks.md)
 <br></br>
-> Mar 29 – 31, 2024 / [**ETH Seoul 2024**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETHGlobal%3A%20Circuit%20Breaker.md)
+> Mar 29 – 31, 2024 / [**ETH Seoul 2024**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETH%20Seoul%202024.md)
 
   📶 Project name: AI Guard Snap
   
