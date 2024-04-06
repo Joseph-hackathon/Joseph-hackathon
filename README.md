@@ -26,14 +26,6 @@ Please enjoy.
 > Mar 22 – 24, 2024 / [**ETHGlobal: Frameworks**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETHGlobal:%20Frameworks.md)
 <br></br>
 > Mar 29 – 31, 2024 / [**ETH Seoul 2024**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETH%20Seoul%202024.md)
-
-  📶 Project name: AI Guard Snap
-  
-  👑 Result: Award failure
-  
-  👨🏼‍💻 Role: Product Manager (PM)
-  
-  📢 Demo: [Devfolio Show case AI Guard Snap](https://devfolio.co/projects/dappassistants-9d92)
 <br></br>
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=90&section=footer)
 
