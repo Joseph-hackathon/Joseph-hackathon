@@ -21,13 +21,21 @@ Please enjoy.
 
 <br></br>
 # Past Participating Hackathons
-## 2023
+<details>
+<summary>
+  2023
+</summary>
+<div markdown="1">
+
 ### Chainlink Spring 2023 Hackathon 
 - [**Trypto**](https://github.com/Joseph-hackathon/hackathon/blob/main/Chainlink%20Spring%202023%20Hackathon.md) 🎉 — Web3-based social platform for travel
 ### ETHGlobal 2023 Online
 - [**Discovey**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETHGlobal%202023%20Online.md) 🥉 — A social networking service that offers survey and recruiting integration
 ### Constellation: A Chainlink Hackathon
 - [**Re-Fresh**](https://github.com/Joseph-hackathon/hackathon/blob/main/Constellation%3A%20A%20Chainlink%20Hackathon.md) — To breathe life into a dying project
+
+</div>
+</details>
 
 ## 2024
 ### ETHGlobal: LFGHO
