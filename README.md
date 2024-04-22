@@ -46,6 +46,8 @@ Please enjoy.
 - [**Dynamic Boy**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETHGlobal:%20Frameworks.md) 🎉 — Dynamic Boy is a platform where users can upload games, check ranking information, and share on social media, fostering interaction and competition within the gaming community
 ### ETH Seoul 2024
 - [**AI Guard Snap**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETH%20Seoul%202024.md) — AI Guard Snap provides wallet snap services and AI-based API services
+### Scaling Ethereum 2024
+- [**Complace**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETH%20Seoul%202024.md) — This service is a decentralized e-commerce platform built on Web3 technology, offering personalized marketplaces for sellers, secure token-based transactions, and trust verification through blockchain certification.
 <br></br>
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=90&section=footer)
 
