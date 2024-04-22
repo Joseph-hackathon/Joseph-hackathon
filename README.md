@@ -47,7 +47,7 @@ Please enjoy.
 ### ETH Seoul 2024
 - [**AI Guard Snap**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETH%20Seoul%202024.md) — AI Guard Snap provides wallet snap services and AI-based API services
 ### Scaling Ethereum 2024
-- [**Complace**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETH%20Seoul%202024.md) — This service is a decentralized e-commerce platform built on Web3 technology, offering personalized marketplaces for sellers, secure token-based transactions, and trust verification through blockchain certification.
+- [**Complace**](https://github.com/Joseph-hackathon/hackathon/blob/main/Scaling%20Ethereum%202024.md) — This service is a decentralized e-commerce platform built on Web3 technology, offering personalized marketplaces for sellers, secure token-based transactions, and trust verification through blockchain certification.
 <br></br>
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=90&section=footer)
 
