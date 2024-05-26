@@ -37,7 +37,12 @@ Please enjoy.
 </div>
 </details>
 
-## 2024
+<details>
+<summary>
+  2024
+</summary>
+<div markdown="1">
+
 ### ETHGlobal: LFGHO
 - [**GCLC - GHO Credit Loan Card**](https://github.com/Joseph-hackathon/hackathon/blob/main/LFGHO%20Hackathon.md) — Web3 GHO-based simple payment system and dNFT credit loan card payment system
 ### ETHGlobal: Circuit Breaker
@@ -49,8 +54,12 @@ Please enjoy.
 ### Scaling Ethereum 2024
 - [**Complace**](https://github.com/Joseph-hackathon/hackathon/blob/main/Scaling%20Ethereum%202024.md) 🏃 — This service is a decentralized e-commerce platform built on Web3 technology, offering personalized marketplaces for sellers, secure token-based transactions, and trust verification through blockchain certification.
 ### Celestia's Infinite Space Bazaar Hackathon
-- [**NFT.info**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETH%20Seoul%202024.md) — Not only recorded on the blockchain using Celestia DA, but is also designed so that there is no need to build a separate CDN service.
+- [**NFT.info**](https://github.com/Joseph-hackathon/hackathon/blob/main/Celestia's%20Infinite%20Space%20Bazaar%20Hackathon%20.md) — Not only recorded on the blockchain using Celestia DA, but is also designed so that there is no need to build a separate CDN service.
+
+</div>
+</details>
 <br></br>
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=90&section=footer)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoesph-hackathon%2Fhit-counter&count_bg=%23D76FEF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
