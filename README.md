@@ -48,6 +48,8 @@ Please enjoy.
 - [**AI Guard Snap**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETH%20Seoul%202024.md) — AI Guard Snap provides wallet snap services and AI-based API services
 ### Scaling Ethereum 2024
 - [**Complace**](https://github.com/Joseph-hackathon/hackathon/blob/main/Scaling%20Ethereum%202024.md) 🏃 — This service is a decentralized e-commerce platform built on Web3 technology, offering personalized marketplaces for sellers, secure token-based transactions, and trust verification through blockchain certification.
+### Celestia's Infinite Space Bazaar Hackathon
+- [**NFT.info**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETH%20Seoul%202024.md) — Not only recorded on the blockchain using Celestia DA, but is also designed so that there is no need to build a separate CDN service.
 <br></br>
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=90&section=footer)
 
