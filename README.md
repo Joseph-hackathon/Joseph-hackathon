@@ -27,12 +27,12 @@ Please enjoy.
 </summary>
 <div markdown="1">
 
-### Chainlink Spring 2023 Hackathon 
-- [**Trypto**](https://github.com/Joseph-hackathon/hackathon/blob/main/Chainlink%20Spring%202023%20Hackathon.md) 🎉 — Web3-based social platform for travel
-### ETHGlobal 2023 Online
-- [**Discovey**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETHGlobal%202023%20Online.md) 🥉 — A social networking service that offers survey and recruiting integration
-### Constellation: A Chainlink Hackathon
-- [**Re-Fresh**](https://github.com/Joseph-hackathon/hackathon/blob/main/Constellation%3A%20A%20Chainlink%20Hackathon.md) — To breathe life into a dying project
+#### Chainlink Spring 2023 Hackathon 
+> [**Trypto**](https://github.com/Joseph-hackathon/hackathon/blob/main/Chainlink%20Spring%202023%20Hackathon.md) 🎉 — Web3-based social platform for travel
+#### ETHGlobal 2023 Online
+> [**Discovey**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETHGlobal%202023%20Online.md) 🥉 — A social networking service that offers survey and recruiting integration
+#### Constellation: A Chainlink Hackathon
+> [**Re-Fresh**](https://github.com/Joseph-hackathon/hackathon/blob/main/Constellation%3A%20A%20Chainlink%20Hackathon.md) — To breathe life into a dying project
 
 </div>
 </details>
@@ -43,18 +43,18 @@ Please enjoy.
 </summary>
 <div markdown="1">
 
-### ETHGlobal: LFGHO
-- [**GCLC - GHO Credit Loan Card**](https://github.com/Joseph-hackathon/hackathon/blob/main/LFGHO%20Hackathon.md) — Web3 GHO-based simple payment system and dNFT credit loan card payment system
-### ETHGlobal: Circuit Breaker
-- [**zk-LinkHub**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETHGlobal%3A%20Circuit%20Breaker.md) — Unlock online potential with ZK email: Unique email, website, and collaboration tools for seamless digital experiences
-### ETHGlobal: Frameworks
-- [**Dynamic Boy**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETHGlobal:%20Frameworks.md) 🎉 — Dynamic Boy is a platform where users can upload games, check ranking information, and share on social media, fostering interaction and competition within the gaming community
-### ETH Seoul 2024
-- [**AI Guard Snap**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETH%20Seoul%202024.md) — AI Guard Snap provides wallet snap services and AI-based API services
-### Scaling Ethereum 2024
-- [**Complace**](https://github.com/Joseph-hackathon/hackathon/blob/main/Scaling%20Ethereum%202024.md) 🏃 — This service is a decentralized e-commerce platform built on Web3 technology, offering personalized marketplaces for sellers, secure token-based transactions, and trust verification through blockchain certification.
-### Celestia's Infinite Space Bazaar Hackathon
-- [**NFT.info**](https://github.com/Joseph-hackathon/hackathon/blob/main/Celestia's%20Infinite%20Space%20Bazaar%20Hackathon%20.md) — Not only recorded on the blockchain using Celestia DA, but is also designed so that there is no need to build a separate CDN service.
+#### ETHGlobal: LFGHO
+> [**GCLC - GHO Credit Loan Card**](https://github.com/Joseph-hackathon/hackathon/blob/main/LFGHO%20Hackathon.md) — Web3 GHO-based simple payment system and dNFT credit loan card payment system
+#### ETHGlobal: Circuit Breaker
+> [**zk-LinkHub**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETHGlobal%3A%20Circuit%20Breaker.md) — Unlock online potential with ZK email: Unique email, website, and collaboration tools for seamless digital experiences
+#### ETHGlobal: Frameworks
+> [**Dynamic Boy**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETHGlobal:%20Frameworks.md) 🎉 — Dynamic Boy is a platform where users can upload games, check ranking information, and share on social media, fostering interaction and competition within the gaming community
+#### ETH Seoul 2024
+> [**AI Guard Snap**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETH%20Seoul%202024.md) — AI Guard Snap provides wallet snap services and AI-based API services
+#### Scaling Ethereum 2024
+> [**Complace**](https://github.com/Joseph-hackathon/hackathon/blob/main/Scaling%20Ethereum%202024.md) 🏃 — This service is a decentralized e-commerce platform built on Web3 technology, offering personalized marketplaces for sellers, secure token-based transactions, and trust verification through blockchain certification.
+#### Celestia's Infinite Space Bazaar Hackathon
+> [**NFT.info**](https://github.com/Joseph-hackathon/hackathon/blob/main/Celestia's%20Infinite%20Space%20Bazaar%20Hackathon%20.md) — Not only recorded on the blockchain using Celestia DA, but is also designed so that there is no need to build a separate CDN service.
 
 </div>
 </details>
