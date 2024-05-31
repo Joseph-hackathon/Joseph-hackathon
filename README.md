@@ -24,7 +24,7 @@ Please enjoy.
 # 🏆 Challenge
 
 |Date|Name|Project|Result|Review|
-|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---|:---|:---|
 |2023|Chainlink Spring 2023 Hackathon|[Trypto](https://devpost.com/software/not-yet-6rw8c2?ref_content=my-projects-tab&ref_feature=my_projects)|🎉 Chainlink Top Qulity Prizes|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/Chainlink%20Spring%202023%20Hackathon.md)
 |2023|ETHGlobal 2023 Online|[Discovey](https://ethglobal.com/showcase/discovey-tuywc)|🥉 Safe — Best Use of Safe{Core} for AA|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETHGlobal%202023%20Online.md)
 |2024|ETHGlobal: Frameworks|[Dynamic Boy](https://ethglobal.com/showcase/dynamic-boy-xpwo0)|🎉 Dynamic — $100 and 3 months advanced plan|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETHGlobal:%20Frameworks.md)
