@@ -5,10 +5,10 @@ This section contains portfolios and reviews of hackathons we have participated 
 Please enjoy.
 
 **Joseph-hackathon/Joseph-hackathon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<br></br>
 ## 🛠️ Can do the tools!
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Google Docs-4285F4?style=flat&logo=googledocs&logoColor=white"/> <img src="https://img.shields.io/badge/Google Sheet-34A853?style=flat&logo=googlesheets&logoColor=white"/> <img src="https://img.shields.io/badge/Google Meet-00897B?style=flat&logo=googlemeet&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=notion&logoColor=black"/> <img src="https://img.shields.io/badge/obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white"/> <img src="https://img.shields.io/badge/Youtube-FF0000?style=flat&logo=youtube&logoColor=white"/> <img src="https://img.shields.io/badge/Mark down-ffffff?style=flat&logo=markdown&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-
+<br></br>
 ## 📌 My Links!
 <div id="badges">
   <a href="https://www.linkedin.com/in/joseph-cho-a15490261/">
@@ -19,6 +19,7 @@ Please enjoy.
   </a>
 </div>
 
+<br></br>
 ## 🚨 I can do it!
 - Ideation
 - Presentation
@@ -27,7 +28,6 @@ Please enjoy.
 - Process sketch
 - Research (Market & Business & Project)
 - Management (Schedule & Team & Project & Product)
-
 <br></br>
 
 # 🏆 Challenge
