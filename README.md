@@ -38,6 +38,7 @@ Please enjoy.
 |2023|ETHGlobal 2023 Online|[Discovey](https://ethglobal.com/showcase/discovey-tuywc)|🥉 Safe — Best Use of Safe{Core} for AA|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETHGlobal%202023%20Online.md)
 |2024|ETHGlobal: Frameworks|[Dynamic Boy](https://ethglobal.com/showcase/dynamic-boy-xpwo0)|🎉 Dynamic — $100 and 3 months advanced plan|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETHGlobal:%20Frameworks.md)
 |2024|Scaling Ethereum 2024 ✅|[Complace](https://ethglobal.com/showcase/complace-7v01t)|🏃Filecoin: Decentralize your dApps with Filecoin - Runner Ups|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/Scaling%20Ethereum%202024.md)
+|2024|Celestia's Infinite Space Bazaar Hackathon|[NFT.info](https://dorahacks.io/ko/buidl/12604)|🥉 Build whatever Track — 3rd Place|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/Celestia's%20Infinite%20Space%20Bazaar%20Hackathon%20.md)
 
 # 📜 Past Participating Hackathons
 <details>
@@ -64,8 +65,6 @@ Please enjoy.
 > [**zk-LinkHub**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETHGlobal%3A%20Circuit%20Breaker.md) — Unlock online potential with ZK email: Unique email, website, and collaboration tools for seamless digital experiences
 #### ETH Seoul 2024
 > [**AI Guard Snap**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETH%20Seoul%202024.md) — AI Guard Snap provides wallet snap services and AI-based API services
-#### Celestia's Infinite Space Bazaar Hackathon
-> [**NFT.info**](https://github.com/Joseph-hackathon/hackathon/blob/main/Celestia's%20Infinite%20Space%20Bazaar%20Hackathon%20.md) — Not only recorded on the blockchain using Celestia DA, but is also designed so that there is no need to build a separate CDN service.
 #### Story Protocol v1.0 Buildathon
 > [**Story Pods**](https://github.com/Joseph-hackathon/hackathon/blob/main/Story%20Protocol%20v1.0%20Buildathon.md) — Own your podcasts! Attest your episodes with Story Protocol and enjoy royalty from your creation. Let your users support your content.
 #### Sui Overflow ✅
