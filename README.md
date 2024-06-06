@@ -70,8 +70,7 @@ Please enjoy.
 #### Sui Overflow ✅
 > [**Suirang**](https://github.com/Joseph-hackathon/hackathon/blob/main/Sui%20overflow.md) — Sui Ecosystem Web3 game ranking and user game asset information, ranking board.
 #### HackFs 2024 ✅
-> [**Filtion**]() — A Web3 Name Service which leverages decentralized storage to allow users to create amazing blogs.
-> [**Filplorer**]() — 
+> [**Filtion**]() — A Web3 Name Service which leverages decentralized storage to allow users to create amazing blogs.\n [**Filplorer**]() — 
 #### Block Magic: A Chainlink Hackathon ✅
 > [**Ringle**]() — NFT Automated Market Maker (AMM) Trading Platform.
 
