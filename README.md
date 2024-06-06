@@ -21,10 +21,9 @@ Please enjoy.
 
 <br></br>
 ## 🚨 I can do it!
-- Ideation
+- Ideation & Planning (✅ = That mark is my idea!)
 - Presentation
-- Summary reports(Like a for contents)
-- Planning
+- Summary reports (Like a for contents)
 - Process sketch
 - Research (Market & Business & Project)
 - Management (Schedule & Team & Project & Product)
