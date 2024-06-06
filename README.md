@@ -72,7 +72,7 @@ Please enjoy.
 #### HackFs 2024 ✅
 > [**Filtion**]() — A Web3 Name Service which leverages decentralized storage to allow users to create amazing blogs.\n [**Filplorer**]() — 
 #### Block Magic: A Chainlink Hackathon ✅
-> [**Ringle**]() — NFT Automated Market Maker (AMM) Trading Platform.
+> [**Ringle**](https://github.com/Joseph-hackathon/hackathon/blob/main/Block%20Magic:%20A%20Chainlink%20Hackathon.md) — NFT Automated Market Maker (AMM) Trading Platform.
 
 </div>
 </details>
