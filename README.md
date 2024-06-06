@@ -59,7 +59,7 @@ Please enjoy.
 <div markdown="1">
 
 #### ✅ ETHGlobal: LFGHO
-> [**GCLC - GHO Credit Loan Card**](https://github.com/Joseph-hackathon/hackathon/blob/main/LFGHO%20Hackathon.md) — Web3 GHO-based simple payment system and dNFT credit loan card payment system
+> [**GCLC - GHO Credit Loan Card**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETHGlobal%3A%20LFGHO.md) — Web3 GHO-based simple payment system and dNFT credit loan card payment system
 #### ✅ ETHGlobal: Circuit Breaker
 > [**zk-LinkHub**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETHGlobal%3A%20Circuit%20Breaker.md) — Unlock online potential with ZK email: Unique email, website, and collaboration tools for seamless digital experiences
 #### ETH Seoul 2024
