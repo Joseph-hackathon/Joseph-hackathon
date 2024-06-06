@@ -69,6 +69,11 @@ Please enjoy.
 > [**Story Pods**](https://github.com/Joseph-hackathon/hackathon/blob/main/Story%20Protocol%20v1.0%20Buildathon.md) — Own your podcasts! Attest your episodes with Story Protocol and enjoy royalty from your creation. Let your users support your content.
 #### Sui Overflow ✅
 > [**Suirang**](https://github.com/Joseph-hackathon/hackathon/blob/main/Sui%20overflow.md) — Sui Ecosystem Web3 game ranking and user game asset information, ranking board.
+#### HackFs 2024 ✅
+> [**Filtion**]() — A Web3 Name Service which leverages decentralized storage to allow users to create amazing blogs.
+> [**Filplorer**]() — 
+#### Block Magic: A Chainlink Hackathon ✅
+> [**Ringle**]() — NFT Automated Market Maker (AMM) Trading Platform.
 
 </div>
 </details>
