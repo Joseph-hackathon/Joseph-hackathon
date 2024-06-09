@@ -29,15 +29,17 @@ Please enjoy.
 - Management (Schedule & Team & Project & Product)
 <br></br>
 
-# 🏆 Challenge
+# 🏆 Challenge Awards
 
 |Date|Name|Project|Result|Review|
-|:---:|:---:|:---|:---|:---|
+|:---:|:---|:---|:---|:---|
 |2023|Chainlink Spring 2023 Hackathon|[Trypto](https://devpost.com/software/not-yet-6rw8c2?ref_content=my-projects-tab&ref_feature=my_projects)|🎉 Chainlink Top Qulity Prizes|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/Chainlink%20Spring%202023%20Hackathon.md)
 |2023|ETHGlobal 2023 Online|[Discovey](https://ethglobal.com/showcase/discovey-tuywc)|🥉 Safe — Best Use of Safe{Core} for AA|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETHGlobal%202023%20Online.md)
 |2024|ETHGlobal: Frameworks|[Dynamic Boy](https://ethglobal.com/showcase/dynamic-boy-xpwo0)|🎉 Dynamic — $100 and 3 months advanced plan|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETHGlobal:%20Frameworks.md)
 |2024|✅ Scaling Ethereum 2024|[Complace](https://ethglobal.com/showcase/complace-7v01t)|🏃Filecoin: Decentralize your dApps with Filecoin - Runner Ups|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/Scaling%20Ethereum%202024.md)
 |2024|Celestia's Infinite Space Bazaar Hackathon|[NFT.info](https://dorahacks.io/ko/buidl/12604)|🥉 Build whatever Track — 3rd Place|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/Celestia's%20Infinite%20Space%20Bazaar%20Hackathon%20.md)
+|2024|Story Protocol v1.0 Buildathon|[Story Pods](https://devfolio.co/projects/story-podcast-3d2e)|🥈 Creator Tools Track - 2nd Place|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/Story%20Protocol%20v1.0%20Buildathon.md)
+|2024|✅ HackFs 2024|[Filtion](https://ethglobal.com/showcase/filtion-i0rnb), [Filplorer](https://ethglobal.com/showcase/filplorer-xofgw)|🏊 Filecoin — Honorable Mentions: Pool prize, Fleek — Pool Prize x2|[**See more...**]()
 
 # 📜 Past Participating Hackathons
 <details>
@@ -64,12 +66,8 @@ Please enjoy.
 > [**zk-LinkHub**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETHGlobal%3A%20Circuit%20Breaker.md) — Unlock online potential with ZK email: Unique email, website, and collaboration tools for seamless digital experiences
 #### ETH Seoul 2024
 > [**AI Guard Snap**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETH%20Seoul%202024.md) — AI Guard Snap provides wallet snap services and AI-based API services
-#### Story Protocol v1.0 Buildathon
-> [**Story Pods**](https://github.com/Joseph-hackathon/hackathon/blob/main/Story%20Protocol%20v1.0%20Buildathon.md) — Own your podcasts! Attest your episodes with Story Protocol and enjoy royalty from your creation. Let your users support your content.
 #### ✅ Sui Overflow
 > [**Suirang**](https://github.com/Joseph-hackathon/hackathon/blob/main/Sui%20overflow.md) — Sui Ecosystem Web3 game ranking and user game asset information, ranking board.
-#### ✅ HackFs 2024
-> [**Filtion**]() — A Web3 Name Service which leverages decentralized storage to allow users to create amazing blogs.<br></br>[**Filplorer**]() — 
 #### ✅ Block Magic: A Chainlink Hackathon
 > [**Ringle**](https://github.com/Joseph-hackathon/hackathon/blob/main/Block%20Magic:%20A%20Chainlink%20Hackathon.md) — NFT Automated Market Maker (AMM) Trading Platform.
 
