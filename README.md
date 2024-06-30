@@ -71,7 +71,7 @@ Please enjoy.
 #### ✅ Block Magic: A Chainlink Hackathon
 > [**Ringle**](https://github.com/Joseph-hackathon/hackathon/blob/main/Block%20Magic:%20A%20Chainlink%20Hackathon.md) — NFT Automated Market Maker (AMM) Trading Platform.
 #### StarkHack
-> [**HyperStark**]() — Automated Rewards and Reinvesting, Harvesting in the HyperStark Vault Service on Starknet.
+> [**HyperStark**](https://github.com/Joseph-hackathon/hackathon/blob/main/StarkHack.md) — Automated Rewards and Reinvesting, Harvesting in the HyperStark Vault Service on Starknet.
 
 </div>
 </details>
