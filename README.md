@@ -38,6 +38,7 @@ Please enjoy.
 |2024|ETHGlobal: Frameworks|[Dynamic Boy](https://ethglobal.com/showcase/dynamic-boy-xpwo0)|🎉 Dynamic — $100 and 3 months advanced plan|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETHGlobal:%20Frameworks.md)
 |2024|✅ Scaling Ethereum 2024|[Complace](https://ethglobal.com/showcase/complace-7v01t)|🏃Filecoin: Decentralize your dApps with Filecoin - Runner Ups|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/Scaling%20Ethereum%202024.md)
 |2024|Celestia's Infinite Space Bazaar Hackathon|[NFT.info](https://dorahacks.io/ko/buidl/12604)|🥉 Build whatever Track — 3rd Place, Connect Modular Expansion with Hyperlane|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/Celestia's%20Infinite%20Space%20Bazaar%20Hackathon%20.md)
+|2024|✅ Sui Overflow|[Suirang]()|🥇 Zetta Block — 1st Place|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/Sui%20overflow.md)
 |2024|Story Protocol v1.0 Buildathon|[Story Pods](https://devfolio.co/projects/story-podcast-3d2e)|🥈 Creator Tools Track - 2nd Place|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/Story%20Protocol%20v1.0%20Buildathon.md)
 |2024|✅ HackFs 2024|[Filtion](https://ethglobal.com/showcase/filtion-i0rnb), [Filplorer](https://ethglobal.com/showcase/filplorer-xofgw)|🏊 Filecoin — Honorable Mentions: Pool prize, Fleek — Pool Prize x2|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETHGlobal:%20HackFS%202024.md)
 
@@ -66,8 +67,6 @@ Please enjoy.
 > [**zk-LinkHub**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETHGlobal%3A%20Circuit%20Breaker.md) — Unlock online potential with ZK email: Unique email, website, and collaboration tools for seamless digital experiences
 #### ETH Seoul 2024
 > [**AI Guard Snap**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETH%20Seoul%202024.md) — AI Guard Snap provides wallet snap services and AI-based API services
-#### ✅ Sui Overflow
-> [**Suirang**](https://github.com/Joseph-hackathon/hackathon/blob/main/Sui%20overflow.md) — Sui Ecosystem Web3 game ranking and user game asset information, ranking board.
 #### ✅ Block Magic: A Chainlink Hackathon
 > [**Ringle**](https://github.com/Joseph-hackathon/hackathon/blob/main/Block%20Magic:%20A%20Chainlink%20Hackathon.md) — NFT Automated Market Maker (AMM) Trading Platform.
 #### StarkHack
