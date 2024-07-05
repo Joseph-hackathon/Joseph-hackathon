@@ -16,6 +16,8 @@ Please enjoy.
   </a>
   <a href="https://www.youtube.com/channel/UC00Sml4bBWzSyURSt0RZRrg">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://x.com/abel_collector" target="_blank">
+    <img src="https://img.shields.io/badge/x-000000?style=flat-square&logo=Twitter&logoColor=white"/></a>
   </a>
 </div>
 
