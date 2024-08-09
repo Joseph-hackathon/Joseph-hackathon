@@ -30,6 +30,7 @@ Please enjoy.
 - Process sketch
 - Research (Market & Business & Project)
 - Management (Schedule & Team & Project & Product)
+- Make the Pitch Deck
 <br></br>
 
 # 🏆 Challenge Awards
