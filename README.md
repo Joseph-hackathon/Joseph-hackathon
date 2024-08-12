@@ -75,7 +75,7 @@ Please enjoy.
 #### StarkHack
 > [**HyperStark**](https://github.com/Joseph-hackathon/hackathon/blob/main/StarkHack.md) — Automated Rewards and Reinvesting, Harvesting in the HyperStark Vault Service on Starknet.
 #### ✅ Mintory
-> [**Mintory**]() — If Solana has Pump.fun, Optimism and Base-based Superchain ecosystem have Mintory.fun, a playground dedicated to NFTs!
+> [**Mintory**](https://github.com/Joseph-hackathon/hackathon/blob/main/Superhack.md) — If Solana has Pump.fun, Optimism and Base-based Superchain ecosystem have Mintory.fun, a playground dedicated to NFTs!
 
 </div>
 </details>
