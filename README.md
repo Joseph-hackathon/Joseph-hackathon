@@ -17,7 +17,7 @@ Please enjoy.
   <a href="https://www.youtube.com/channel/UC00Sml4bBWzSyURSt0RZRrg">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://x.com/abel_collector">
+  <a href="https://x.com/josephdotpm">
     <img src="https://img.shields.io/badge/x-000000?style=flat&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
