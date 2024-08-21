@@ -77,7 +77,7 @@ Please enjoy.
 #### ✅ Mintory
 > [**Mintory**](https://github.com/Joseph-hackathon/hackathon/blob/main/Superhack.md) — If Solana has Pump.fun, Optimism and Base-based Superchain ecosystem have Mintory.fun, a playground dedicated to NFTs!
 #### ✅ Smart Various
-> [**Smart Various**](https://github.com/Joseph-hackathon/hackathon/blob/main/Superhack.md) — AI Based the smart contract analysis platform
+> [**Smart Various**](https://github.com/Joseph-hackathon/hackathon/blob/main/HELLO%20FUTURE%20HACKATHON.md) — AI Based the smart contract analysis platform
 
 </div>
 </details>
