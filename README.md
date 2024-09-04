@@ -46,7 +46,7 @@ Please enjoy.
 |2024.05|Story Protocol v1.0 Buildathon|Service|[Story Pods](https://devfolio.co/projects/story-podcast-3d2e)|🥈 Creator Tools Track - 2nd Place|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/Story%20Protocol%20v1.0%20Buildathon.md)
 |2024.06|✅ Sui Overflow|Infra & Gaming|[Suirang](https://docs.google.com/presentation/d/1ub2e2YDdFAdV_jgsCEQXuFHDZwFf5scdk9yzNkMKE6s/edit?usp=sharing)|🥇 Zetta Block — 1st Place|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/Sui%20overflow.md)
 |2024.06|✅ HackFs 2024|Infra & Service|[Filtion](https://ethglobal.com/showcase/filtion-i0rnb), [Filplorer](https://ethglobal.com/showcase/filplorer-xofgw)|🏊 Filecoin — Honorable Mentions: Pool prize, Fleek — Pool Prize x2|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETHGlobal:%20HackFS%202024.md)
-|2024.08|Build the New Internet|Infra & Serivce|[OrderWrap](https://devfolio.co/projects/orderwrap-2eb8)|🛒 Honorable Mentions — Safe&Magic, Coinbase, WalletConnect|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/Sui%20overflow.md)
+|2024.08|Build the New Internet|Infra & Serivce|[OrderWrap](https://devfolio.co/projects/orderwrap-2eb8)|🛒 Honorable Mentions — Safe&Magic, Coinbase, WalletConnect|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/Build%20the%20New%20Internet.md)
 
 # 📜 Past Participating Hackathons
 <details>
