@@ -77,8 +77,6 @@ Please enjoy.
 > [**HyperStark**](https://github.com/Joseph-hackathon/hackathon/blob/main/StarkHack.md) — Automated Rewards and Reinvesting, Harvesting in the HyperStark Vault Service on Starknet.
 #### ✅ Mintory
 > [**Mintory**](https://github.com/Joseph-hackathon/hackathon/blob/main/Superhack.md) — If Solana has Pump.fun, Optimism and Base-based Superchain ecosystem have Mintory.fun, a playground dedicated to NFTs!
-#### OrderWrap
-> [**OrederWrap**]() — Cryptocurrency simple order payment service
 #### ✅ Smart Various
 > [**Smart Various**](https://github.com/Joseph-hackathon/hackathon/blob/main/HELLO%20FUTURE%20HACKATHON.md) — AI Based the smart contract analysis platform
 
