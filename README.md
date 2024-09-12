@@ -33,29 +33,31 @@ Please enjoy.
 - Make the Pitch Deck
 <br></br>
 
-# 🏆 Challenge Awards
+## 🏆 Challenge Awards
 
 |Date|Name|Category|Project|Result|Review|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|2023.06|Chainlink Spring 2023 Hackathon|Service|[Trypto](https://devpost.com/software/not-yet-6rw8c2?ref_content=my-projects-tab&ref_feature=my_projects)|🎉 Chainlink Top Qulity Prizes|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/Chainlink%20Spring%202023%20Hackathon.md)
 |2023.10|ETHGlobal 2023 Online|Service|[Discovey](https://ethglobal.com/showcase/discovey-tuywc)|🥉 Safe — Best Use of Safe{Core} for AA|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETHGlobal%202023%20Online.md)
-|2024.03|ETHGlobal: Frameworks|Gaming|[Dynamic Boy](https://ethglobal.com/showcase/dynamic-boy-xpwo0)|🎉 Dynamic — $100 and 3 months advanced plan|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETHGlobal:%20Frameworks.md)
-|2024.04|✅ Scaling Ethereum 2024|E-commerce|[Complace](https://ethglobal.com/showcase/complace-7v01t)|🏃Filecoin: Decentralize your dApps with Filecoin - Runner Ups|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/Scaling%20Ethereum%202024.md)
-|2024.04|✅ Block Magic: A Chainlink Hackathon|DeFi(NFT AMM)|[Ringle](https://devpost.com/software/ringle)|Scroll -prize pool|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/Block%20Magic:%20A%20Chainlink%20Hackathon.md)
 |2024.05|Celestia's Infinite Space Bazaar Hackathon|Infra|[NFT.info](https://dorahacks.io/ko/buidl/12604)|🥉 Build whatever Track — 3rd Place, Connect Modular Expansion with Hyperlane|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/Celestia's%20Infinite%20Space%20Bazaar%20Hackathon%20.md)
 |2024.05|Story Protocol v1.0 Buildathon|Service|[Story Pods](https://devfolio.co/projects/story-podcast-3d2e)|🥈 Creator Tools Track - 2nd Place|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/Story%20Protocol%20v1.0%20Buildathon.md)
 |2024.06|✅ Sui Overflow|Infra & Gaming|[Suirang](https://docs.google.com/presentation/d/1ub2e2YDdFAdV_jgsCEQXuFHDZwFf5scdk9yzNkMKE6s/edit?usp=sharing)|🥇 Zetta Block — 1st Place|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/Sui%20overflow.md)
-|2024.06|✅ HackFs 2024|Infra & Service|[Filtion](https://ethglobal.com/showcase/filtion-i0rnb), [Filplorer](https://ethglobal.com/showcase/filplorer-xofgw)|🏊 Filecoin — Honorable Mentions: Pool prize, Fleek — Pool Prize x2|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETHGlobal:%20HackFS%202024.md)
 |2024.08|Build the New Internet|Infra & Serivce|[OrderWrap](https://devfolio.co/projects/orderwrap-2eb8)|🛒 Honorable Mentions — Safe&Magic, Coinbase, WalletConnect|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/Build%20the%20New%20Internet.md)
 
-# 📜 Past Participating Hackathons
+### 📜 Past Participating Hackathons
+
 <details>
 <summary>
   2023
 </summary>
 <div markdown="1">
 
-  #### ✅ Constellation: A Chainlink Hackathon
+#### 🏆 Awards
+|Date|Name|Category|Project|Result|Review|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|2023.06|Chainlink Spring 2023 Hackathon|Service|[Trypto](https://devpost.com/software/not-yet-6rw8c2?ref_content=my-projects-tab&ref_feature=my_projects)|🎉 Chainlink Top Qulity Prizes|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/Chainlink%20Spring%202023%20Hackathon.md)
+
+#### Past Project
+##### ✅ Constellation: A Chainlink Hackathon
 > [**Re-Fresh**](https://github.com/Joseph-hackathon/hackathon/blob/main/Constellation%3A%20A%20Chainlink%20Hackathon.md) — To breathe life into a dying project
 
 </div>
@@ -67,18 +69,40 @@ Please enjoy.
 </summary>
 <div markdown="1">
 
-#### ✅ ETHGlobal: LFGHO
-> [**GCLC - GHO Credit Loan Card**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETHGlobal%3A%20LFGHO.md) — Web3 GHO-based simple payment system and dNFT credit loan card payment system
-#### ✅ ETHGlobal: Circuit Breaker
-> [**zk-LinkHub**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETHGlobal%3A%20Circuit%20Breaker.md) — Unlock online potential with ZK email: Unique email, website, and collaboration tools for seamless digital experiences
-#### ETH Seoul 2024
-> [**AI Guard Snap**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETH%20Seoul%202024.md) — AI Guard Snap provides wallet snap services and AI-based API services
-#### StarkHack
-> [**HyperStark**](https://github.com/Joseph-hackathon/hackathon/blob/main/StarkHack.md) — Automated Rewards and Reinvesting, Harvesting in the HyperStark Vault Service on Starknet.
-#### ✅ Mintory
-> [**Mintory**](https://github.com/Joseph-hackathon/hackathon/blob/main/Superhack.md) — If Solana has Pump.fun, Optimism and Base-based Superchain ecosystem have Mintory.fun, a playground dedicated to NFTs!
-#### ✅ Smart Various
-> [**Smart Various**](https://github.com/Joseph-hackathon/hackathon/blob/main/HELLO%20FUTURE%20HACKATHON.md) — AI Based the smart contract analysis platform
+#### 🏆 Awards
+|Date|Name|Category|Project|Result|Review|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|2024.03|ETHGlobal: Frameworks|Gaming|[Dynamic Boy](https://ethglobal.com/showcase/dynamic-boy-xpwo0)|🎉 Dynamic — $100 and 3 months advanced plan|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETHGlobal:%20Frameworks.md)
+|2024.04|✅ Scaling Ethereum 2024|E-commerce|[Complace](https://ethglobal.com/showcase/complace-7v01t)|🏃Filecoin: Decentralize your dApps with Filecoin - Runner Ups|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/Scaling%20Ethereum%202024.md)
+|2024.04|✅ Block Magic: A Chainlink Hackathon|DeFi(NFT AMM)|[Ringle](https://devpost.com/software/ringle)|Scroll -prize pool|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/Block%20Magic:%20A%20Chainlink%20Hackathon.md)
+|2024.06|✅ HackFs 2024|Infra & Service|[Filtion](https://ethglobal.com/showcase/filtion-i0rnb), [Filplorer](https://ethglobal.com/showcase/filplorer-xofgw)|🏊 Filecoin — Honorable Mentions: Pool prize, Fleek — Pool Prize x2|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETHGlobal:%20HackFS%202024.md)
+
+  <details>
+  <summary>
+    Past Project
+  </summary>
+  <div markdown="1">
+  
+  ##### ✅ ETHGlobal: LFGHO
+  > [**GCLC - GHO Credit Loan Card**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETHGlobal%3A%20LFGHO.md) — Web3 GHO-based simple payment system and dNFT credit loan card payment system
+  
+  ##### ✅ ETHGlobal: Circuit Breaker
+  > [**zk-LinkHub**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETHGlobal%3A%20Circuit%20Breaker.md) — Unlock online potential with ZK email: Unique email, website, and collaboration tools for seamless digital experiences
+  
+  ##### ETH Seoul 2024
+  > [**AI Guard Snap**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETH%20Seoul%202024.md) — AI Guard Snap provides wallet snap services and AI-based API services
+  
+  ##### StarkHack
+  > [**HyperStark**](https://github.com/Joseph-hackathon/hackathon/blob/main/StarkHack.md) — Automated Rewards and Reinvesting, Harvesting in the HyperStark Vault Service on Starknet.
+  
+  ##### ✅ Mintory
+  > [**Mintory**](https://github.com/Joseph-hackathon/hackathon/blob/main/Superhack.md) — If Solana has Pump.fun, Optimism and Base-based Superchain ecosystem have Mintory.fun, a playground dedicated to NFTs!
+  
+  ##### ✅ Smart Various
+  > [**Smart Various**](https://github.com/Joseph-hackathon/hackathon/blob/main/HELLO%20FUTURE%20HACKATHON.md) — AI Based the smart contract analysis platform
+  
+  </div>
+  </details>
 
 </div>
 </details>
