@@ -100,6 +100,12 @@ Please enjoy.
   
   ##### ✅ Smart Various
   > [**Smart Various**](https://github.com/Joseph-hackathon/hackathon/blob/main/HELLO%20FUTURE%20HACKATHON.md) — AI Based the smart contract analysis platform
+
+  ##### ✅ AeroDump
+  > [**AeroDump**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETH%20Online%202024%231.md) — Cutting-edge platform designed to simplify and automate the distribution of tokens for users and project owners across multiple-chain networks.
+
+  ##### ✅ ETH Various
+  > [**ETH Various**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETH%20Online%202024%232.md) — Galadriel AI Based the smart contract analysis platform
   
   </div>
   </details>
