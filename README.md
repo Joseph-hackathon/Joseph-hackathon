@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hackathon%20Review&fontSize=40&animation=fadeIn&fontAlignY=38)
-
 # 😄 I'm Product Manager
 This section contains portfolios and reviews of hackathons we have participated in so far.
 Please enjoy.
@@ -113,7 +111,5 @@ Please enjoy.
 </div>
 </details>
 <br></br>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=90&section=footer)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjoesph-hackathon%2Fhit-counter&count_bg=%23D76FEF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
