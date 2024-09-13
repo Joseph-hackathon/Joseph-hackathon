@@ -27,13 +27,13 @@ Please enjoy.
 - Ideation & Planning (✅ = That mark is my idea!)
 - Presentation
 - Summary reports (Like a for contents)
-- Process sketch
-- Research (Market & Business & Project)
-- Management (Schedule & Team & Project & Product)
+- Make the sketch (Process | Userflow)
+- Research (Market | Business | Project | Competitors)
+- Management (Schedule | Team | Project | Product | Communication)
 - Make the Pitch Deck
 <br></br>
 
-## 🏆 Challenge Awards
+## 🏆 Challenge Awards (Focus on 1st, 2nd, 3rd place)
 
 |Date|Name|Category|Project|Result|Review|
 |:---:|:---:|:---:|:---:|:---:|:---:|
