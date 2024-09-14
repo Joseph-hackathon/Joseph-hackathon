@@ -74,8 +74,8 @@ Please enjoy.
 |2024.04|✅ Scaling Ethereum 2024|E-commerce|[Complace](https://ethglobal.com/showcase/complace-7v01t)|🏃Filecoin: Decentralize your dApps with Filecoin - Runner Ups|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/Scaling%20Ethereum%202024.md)
 |2024.04|✅ Block Magic: A Chainlink Hackathon|DeFi(NFT AMM)|[Ringle](https://devpost.com/software/ringle)|Scroll -prize pool|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/Block%20Magic:%20A%20Chainlink%20Hackathon.md)
 |2024.06|✅ HackFs 2024|Infra & Service|[Filtion](https://ethglobal.com/showcase/filtion-i0rnb), [Filplorer](https://ethglobal.com/showcase/filplorer-xofgw)|🏊 Filecoin — Honorable Mentions: Pool prize, Fleek — Pool Prize x2|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETHGlobal:%20HackFS%202024.md)
-|2024.09|✅ ETH Online 2024|Infra & Service|[AeroDump](https://ethglobal.com/showcase/aerodump-4z48m)|✨ LayerZero - Most Innovative Omnichain Solution Best Developer Feedback, Sign Protocol - Sign Everything Pool Prize|[**See more...**]()
-|2024.09|✅ ETH Online 2024|Service & Security|[ETH Various](https://ethglobal.com/showcase/eth-various-swusm)|✨ Hedera - Hedera-Native Services Starter Bounty|[**See more...**]()
+|2024.09|✅ ETH Online 2024|Infra & Service|[AeroDump](https://ethglobal.com/showcase/aerodump-4z48m)|✨ LayerZero - Most Innovative Omnichain Solution Best Developer Feedback, Sign Protocol - Sign Everything Pool Prize|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETH%20Online%202024%231.md)
+|2024.09|✅ ETH Online 2024|Service & Security|[ETH Various](https://ethglobal.com/showcase/eth-various-swusm)|✨ Hedera - Hedera-Native Services Starter Bounty|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETH%20Online%202024%232.md)
 
   <details>
   <summary>
@@ -100,12 +100,6 @@ Please enjoy.
   
   ##### ✅ Smart Various
   > [**Smart Various**](https://github.com/Joseph-hackathon/hackathon/blob/main/HELLO%20FUTURE%20HACKATHON.md) — AI Based the smart contract analysis platform
-
-  ##### ✅ AeroDump
-  > [**AeroDump**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETH%20Online%202024%231.md) — Cutting-edge platform designed to simplify and automate the distribution of tokens for users and project owners across multiple-chain networks.
-
-  ##### ✅ ETH Various
-  > [**ETH Various**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETH%20Online%202024%232.md) — Galadriel AI Based the smart contract analysis platform
   
   </div>
   </details>
