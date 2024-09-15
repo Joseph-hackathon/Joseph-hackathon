@@ -18,13 +18,16 @@ Please enjoy.
 ## 📌 My Links!
 <div id="badges">
   <a href="https://www.linkedin.com/in/seongjae-cho-a15490261/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Seogjae Cho-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UC00Sml4bBWzSyURSt0RZRrg">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://x.com/josephdotpm">
-    <img src="https://img.shields.io/badge/x-000000?style=flat&logo=x&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Joseph-000000?style=flat&logo=x&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="sjcho.hackathon@gmail.com">
+    <img src="https://img.shields.io/badge/-Joseph-D14836?style=flat&amp;logo=Gmail&amp;logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
