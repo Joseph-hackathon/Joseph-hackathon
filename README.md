@@ -1,10 +1,18 @@
-# 😄 Hello, I'm Product Manager
+# 😄 Hello, I'm Joseph Cho
 This section contains portfolios and reviews of hackathons we have participated in so far.
 Please enjoy.
 
 **Joseph-hackathon/Joseph-hackathon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <br></br>
-## 🛠️ Can do the tools!
+## 👨🏻‍💻 About me
+- I'm Project & Product Manger
+- 👨‍💻 2 Experience Blockchain proejct manager
+- 👨‍💻 1 Experience AI Security engineer
+- 🎓 Completed information security education course (Education by. K-Shield.jr)
+- 🎓 Completed product manager education course (Education by. Codestates)
+- 🏆 11x Web3 Hackathons Winner
+
+## 🛠️ Control & Tools!
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Google Docs-4285F4?style=flat&logo=googledocs&logoColor=white"/> <img src="https://img.shields.io/badge/Google Sheet-34A853?style=flat&logo=googlesheets&logoColor=white"/> <img src="https://img.shields.io/badge/Google Meet-00897B?style=flat&logo=googlemeet&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-ffffff?style=flat&logo=notion&logoColor=black"/> <img src="https://img.shields.io/badge/obsidian-7C3AED?style=flat&logo=obsidian&logoColor=white"/> <img src="https://img.shields.io/badge/Youtube-FF0000?style=flat&logo=youtube&logoColor=white"/> <img src="https://img.shields.io/badge/Mark down-ffffff?style=flat&logo=markdown&logoColor=black"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 <br></br>
 ## 📌 My Links!
