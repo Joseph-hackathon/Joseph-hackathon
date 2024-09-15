@@ -6,7 +6,7 @@ Please enjoy.
 <br></br>
 ## 👨🏻‍💻 About me
 - I'm Project & Product Manger
-- 👨‍💻 2 Experience Blockchain proejct manager
+- 👨‍💻 2 Experience Blockchain project manager
 - 👨‍💻 1 Experience AI Security engineer
 - 🎓 Completed information security education course (Education by. K-Shield.jr)
 - 🎓 Completed product manager education course (Education by. Codestates)
