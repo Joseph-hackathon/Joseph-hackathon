@@ -1,4 +1,4 @@
-# 😄 I'm Product Manager
+# 😄 Hello, I'm Product Manager
 This section contains portfolios and reviews of hackathons we have participated in so far.
 Please enjoy.
 
