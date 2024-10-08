@@ -113,7 +113,7 @@ Please enjoy.
   > [**Smart Various**](https://github.com/Joseph-hackathon/hackathon/blob/main/HELLO%20FUTURE%20HACKATHON.md) — AI Based the smart contract analysis platform
 
   ##### ShareTos
-  > [**ShareTos**]() — AI Based the smart contract analysis platform
+  > [**ShareTos**](https://github.com/Joseph-hackathon/hackathon/blob/main/Aptos%20Code%20Collision%20Hackathon.md) — The Web3 Idea Sharing and Community Platform
   
   </div>
   </details>
