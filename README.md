@@ -106,13 +106,13 @@ Please enjoy.
   ##### StarkHack
   > [**HyperStark**](https://github.com/Joseph-hackathon/hackathon/blob/main/StarkHack.md) — Automated Rewards and Reinvesting, Harvesting in the HyperStark Vault Service on Starknet.
   
-  ##### ✅ Mintory
+  ##### ✅ Superhack
   > [**Mintory**](https://github.com/Joseph-hackathon/hackathon/blob/main/Superhack.md) — If Solana has Pump.fun, Optimism and Base-based Superchain ecosystem have Mintory.fun, a playground dedicated to NFTs!
   
-  ##### ✅ Smart Various
+  ##### ✅ Hello Future Hackathon 1.0
   > [**Smart Various**](https://github.com/Joseph-hackathon/hackathon/blob/main/HELLO%20FUTURE%20HACKATHON.md) — AI Based the smart contract analysis platform
 
-  ##### ShareTos
+  ##### Aptos Code Collision Hackathon
   > [**ShareTos**](https://github.com/Joseph-hackathon/hackathon/blob/main/Aptos%20Code%20Collision%20Hackathon.md) — The Web3 Idea Sharing and Community Platform
   
   </div>
