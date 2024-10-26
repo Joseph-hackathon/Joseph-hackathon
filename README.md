@@ -114,6 +114,9 @@ Please enjoy.
 
   ##### Aptos Code Collision Hackathon
   > [**ShareTos**](https://github.com/Joseph-hackathon/hackathon/blob/main/Aptos%20Code%20Collision%20Hackathon.md) — The Web3 Idea Sharing and Community Platform
+
+  ##### Ideahacker's Guide to IBC
+  > [**HTTPi**]() — HTTPi Protocol for Secure Decentralized Communication
   
   </div>
   </details>
