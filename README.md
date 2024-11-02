@@ -119,7 +119,7 @@ Please enjoy.
   > [**HTTPi**](https://github.com/Joseph-hackathon/hackathon/blob/main/Ideahacker's%20Guide%20to%20IBC.md) — HTTPi Protocol for Secure Decentralized Communication
   
   ##### ✅ [REDACTED] Hackathon
-  > [**reCEPTION**]() — Web3.0 reCAPTCHA | From vulnerable smart contracts
+  > [**reCEPTION**](https://github.com/Joseph-hackathon/hackathon/blob/main/%5BREDACTED%5D%20Hackathon%20%231.md) — Web3.0 reCAPTCHA | From vulnerable smart contracts
 
   ##### ✅ [REDACTED] Hackathon
   > [**io.Side**]() — A visualization dashboard for Web3 games that goes beyond just displaying game information is very compelling.
