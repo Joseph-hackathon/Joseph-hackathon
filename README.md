@@ -118,12 +118,18 @@ Please enjoy.
   ##### ✅ Ideahacker's Guide to IBC
   > [**HTTPi**](https://github.com/Joseph-hackathon/hackathon/blob/main/Ideahacker's%20Guide%20to%20IBC.md) — HTTPi Protocol for Secure Decentralized Communication
   
-  ##### ✅ [REDACTED] Hackathon
+  ##### ✅ [REDACTED] Hackathon #1
   > [**reCEPTION**](https://github.com/Joseph-hackathon/hackathon/blob/main/%5BREDACTED%5D%20Hackathon%20%231.md) — Web3.0 reCAPTCHA | From vulnerable smart contracts
 
-  ##### ✅ [REDACTED] Hackathon
-  > [**io.Side**]() — A visualization dashboard for Web3 games that goes beyond just displaying game information is very compelling.
-  
+  ##### ✅ [REDACTED] Hackathon #2
+  > [**io.Side**](https://github.com/Joseph-hackathon/hackathon/blob/main/%5BREDACTED%5D%20Hackathon%20%232.md) — A visualization dashboard for Web3 games that goes beyond just displaying game information is very compelling.
+
+  ##### Build On #1
+  > [**DataDiscovery**]() — A data asset management platform that collects, visualizes, and manages survey and on-chain data, allowing companies to purchase and utilize it.
+
+  ##### ✅ Build On #2
+  > [**Quicktics**]() — A user-friendly platform that enables easy blockchain data analysis and visualization without the need for SQL queries.
+
   </div>
   </details>
 
