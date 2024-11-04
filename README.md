@@ -12,7 +12,7 @@ Please enjoy.
 - 🎓 Completed product manager education course (Education by. Codestates)
 - 🏆 11x Web3 Hackathons Winner
 <br></br>
-## 🙆‍♂️ Can do it!
+## 🙆‍♂️ Can do this!
 - Ideation & Planning (✅ = That mark is my idea!)
 - Presentation
 - Summary reports (Like a for contents)
