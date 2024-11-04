@@ -16,7 +16,7 @@ Please enjoy.
 - Ideation & Planning (✅ = That mark is my idea!)
 - Presentation
 - Summary reports (Like a for contents)
-- Make the sketch (Process | Userflow | Flowchart)
+- Make the sketch (Process | Userflow | Flowchart | Prototype)
 - Research (Market | Business | Project | Competitors)
 - Management (Schedule | Team | Project | Product | Communication)
 - Make the Pitch Deck
