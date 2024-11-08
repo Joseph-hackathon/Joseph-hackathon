@@ -125,7 +125,7 @@ Please enjoy.
   > [**io.Side**](https://github.com/Joseph-hackathon/hackathon/blob/main/%5BREDACTED%5D%20Hackathon%20%232.md) — A visualization dashboard for Web3 games that goes beyond just displaying game information is very compelling.
 
   ##### Build On #1
-  > [**DataDiscovery**]() — A data asset management platform that collects, visualizes, and manages survey and on-chain data, allowing companies to purchase and utilize it.
+  > [**DataDiscovery**](https://github.com/Joseph-hackathon/hackathon/blob/main/Build%20On%20%231.md) — A data asset management platform that collects, visualizes, and manages survey and on-chain data, allowing companies to purchase and utilize it.
 
   ##### ✅ Build On #2
   > [**Quicktics**]() — A user-friendly platform that enables easy blockchain data analysis and visualization without the need for SQL queries.
