@@ -51,6 +51,7 @@ Please enjoy.
 |2024.05|Story Protocol v1.0 Buildathon|Service|[Story Pods](https://devfolio.co/projects/story-podcast-3d2e)|🥈 Creator Tools Track - 2nd Place|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/Story%20Protocol%20v1.0%20Buildathon.md)
 |2024.06|✅ Sui Overflow|Infra & Gaming|[Suirang](https://docs.google.com/presentation/d/1ub2e2YDdFAdV_jgsCEQXuFHDZwFf5scdk9yzNkMKE6s/edit?usp=sharing)|🥇 Zetta Block — 1st Place|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/Sui%20overflow.md)
 |2024.08|Build the New Internet|Infra & Serivce|[OrderWrap](https://devfolio.co/projects/orderwrap-2eb8)|🛒 Honorable Mentions — Safe&Magic, Coinbase, WalletConnect|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/Build%20the%20New%20Internet.md)
+|2024.11|Build On|Data & Serivce|[DataDiscovery](https://devfolio.co/projects/discovey-5c68)|🥇 PYUSD — Buidl with PYUSD|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/Build%20On%20%231.md)
 
 ### 📜 Past Participating Hackathons
 
@@ -123,9 +124,6 @@ Please enjoy.
 
   ##### ✅ [REDACTED] Hackathon #2
   > [**io.Side**](https://github.com/Joseph-hackathon/hackathon/blob/main/%5BREDACTED%5D%20Hackathon%20%232.md) — A visualization dashboard for Web3 games that goes beyond just displaying game information is very compelling.
-
-  ##### Build On #1
-  > [**DataDiscovery**](https://github.com/Joseph-hackathon/hackathon/blob/main/Build%20On%20%231.md) — A data asset management platform that collects, visualizes, and manages survey and on-chain data, allowing companies to purchase and utilize it.
 
   ##### ✅ Build On #2
   > [**Quicktics**]() — A user-friendly platform that enables easy blockchain data analysis and visualization without the need for SQL queries.
