@@ -10,7 +10,7 @@ Please enjoy.
 - 👨‍💻 1 Experience AI Security engineer
 - 🎓 Completed information security education course (Education by. K-Shield.jr)
 - 🎓 Completed product manager education course (Education by. Codestates)
-- 🏆 11x Web3 Hackathons Winner
+- 🏆 13x Web3 Hackathons Winner
 <br></br>
 ## 🙆‍♂️ Can do this!
 - Ideation & Planning (✅ = That mark is my idea!)
