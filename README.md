@@ -52,6 +52,7 @@ Please enjoy.
 |2024.06|✅ Sui Overflow|Infra & Gaming|[Suirang](https://docs.google.com/presentation/d/1ub2e2YDdFAdV_jgsCEQXuFHDZwFf5scdk9yzNkMKE6s/edit?usp=sharing)|🥇 Zetta Block — 1st Place|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/Sui%20overflow.md)
 |2024.08|Build the New Internet|Infra & Serivce|[OrderWrap](https://devfolio.co/projects/orderwrap-2eb8)|🛒 Honorable Mentions — Safe&Magic, Coinbase, WalletConnect|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/Build%20the%20New%20Internet.md)
 |2024.11|Build On|Data & Serivce|[DataDiscovery](https://devfolio.co/projects/discovey-5c68)|🥇 PYUSD — Buidl with PYUSD|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/Build%20On%20%231.md)
+|2024.11|✅ Ideahacker's Guide to IBC|Infra|[HTTPi](https://dorahacks.io/buidl/17793/)|🥉 Wildcard - Third place|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/Ideahacker's%20Guide%20to%20IBC.md)
 
 ### 📜 Past Participating Hackathons
 
@@ -115,9 +116,6 @@ Please enjoy.
 
   ##### Aptos Code Collision Hackathon
   > [**ShareTos**](https://github.com/Joseph-hackathon/hackathon/blob/main/Aptos%20Code%20Collision%20Hackathon.md) — The Web3 Idea Sharing and Community Platform
-
-  ##### ✅ Ideahacker's Guide to IBC
-  > [**HTTPi**](https://github.com/Joseph-hackathon/hackathon/blob/main/Ideahacker's%20Guide%20to%20IBC.md) — HTTPi Protocol for Secure Decentralized Communication
   
   ##### ✅ [REDACTED] Hackathon #1
   > [**reCEPTION**](https://github.com/Joseph-hackathon/hackathon/blob/main/%5BREDACTED%5D%20Hackathon%20%231.md) — Web3.0 reCAPTCHA | From vulnerable smart contracts
