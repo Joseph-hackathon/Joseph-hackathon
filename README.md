@@ -52,7 +52,8 @@ Please enjoy.
 |2024.06|✅ Sui Overflow|Infra & Gaming|[Suirang](https://docs.google.com/presentation/d/1ub2e2YDdFAdV_jgsCEQXuFHDZwFf5scdk9yzNkMKE6s/edit?usp=sharing)|🥇 Zetta Block — 1st Place|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/Sui%20overflow.md)
 |2024.08|Build the New Internet|Infra & Serivce|[OrderWrap](https://devfolio.co/projects/orderwrap-2eb8)|🛒 Honorable Mentions — Safe&Magic, Coinbase, WalletConnect|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/Build%20the%20New%20Internet.md)
 |2024.11|Build On|Data & Serivce|[DataDiscovery](https://devfolio.co/projects/discovey-5c68)|🥇 PYUSD — Buidl with PYUSD|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/Build%20On%20%231.md)
-|2024.11|✅ Ideahacker's Guide to IBC|Infra|[HTTPi](https://dorahacks.io/buidl/17793/)|🥉 Wildcard - Third place|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/Ideahacker's%20Guide%20to%20IBC.md)
+|2024.11|✅ Ideahacker's Guide to IBC|Infra|[HTTPi](https://dorahacks.io/buidl/17793/)|🥉 Wildcard - 3rd place|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/Ideahacker's%20Guide%20to%20IBC.md)
+|2024.11|XRPL SEA HACKATHON 2024|Service|[Ripple Market](https://dorahacks.io/buidl/18380/)|🥉 XRPL EVM Sidechain - 3rd place|[**See more...**]()
 
 ### 📜 Past Participating Hackathons
 
@@ -89,6 +90,7 @@ Please enjoy.
 |2024.06|✅ HackFs 2024|Infra & Service|[Filtion](https://ethglobal.com/showcase/filtion-i0rnb), [Filplorer](https://ethglobal.com/showcase/filplorer-xofgw)|🏊 Filecoin — Honorable Mentions: Pool prize, Fleek — Pool Prize x2|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETHGlobal:%20HackFS%202024.md)
 |2024.09|✅ ETH Online 2024|Infra & Service|[AeroDump](https://ethglobal.com/showcase/aerodump-4z48m)|✨ LayerZero - Most Innovative Omnichain Solution Best Developer Feedback, Sign Protocol - Sign Everything Pool Prize|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETH%20Online%202024%231.md)
 |2024.09|✅ ETH Online 2024|Service & Security|[ETH Various](https://ethglobal.com/showcase/eth-various-swusm)|✨ Hedera - Hedera-Native Services Starter Bounty|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETH%20Online%202024%232.md)
+|2024.11|Chain Abstraction Hackathon|Service|[Xchain Shop]()|🥈 Agoric - 2nd place|[**See more...**]()
 
   <details>
   <summary>
