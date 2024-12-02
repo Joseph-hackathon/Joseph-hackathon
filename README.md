@@ -90,7 +90,7 @@ Please enjoy.
 |2024.06|✅ HackFs 2024|Infra & Service|[Filtion](https://ethglobal.com/showcase/filtion-i0rnb), [Filplorer](https://ethglobal.com/showcase/filplorer-xofgw)|🏊 Filecoin — Honorable Mentions: Pool prize, Fleek — Pool Prize x2|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETHGlobal:%20HackFS%202024.md)
 |2024.09|✅ ETH Online 2024|Infra & Service|[AeroDump](https://ethglobal.com/showcase/aerodump-4z48m)|✨ LayerZero - Most Innovative Omnichain Solution Best Developer Feedback, Sign Protocol - Sign Everything Pool Prize|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETH%20Online%202024%231.md)
 |2024.09|✅ ETH Online 2024|Service & Security|[ETH Various](https://ethglobal.com/showcase/eth-various-swusm)|✨ Hedera - Hedera-Native Services Starter Bounty|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/ETH%20Online%202024%232.md)
-|2024.11|Chain Abstraction Hackathon|Service|[Xchain Shop](https://github.com/juniahn-dev/xchainshop)|🥈 Agoric Orchestration - 2nd Place, 🛒 Honorable Mentions - SEDA|[**See more...**]()
+|2024.11|Chain Abstraction Hackathon|Service|[Xchain Shop](https://github.com/juniahn-dev/xchainshop)|🥈 Agoric Orchestration - 2nd Place, 🛒 Honorable Mentions - SEDA|[**See more...**](https://github.com/Joseph-hackathon/hackathon/blob/main/Chain%20Abstraction%20Hackathon.md)
 
   <details>
   <summary>
