@@ -128,6 +128,9 @@ Please enjoy.
   ##### ✅ Build On #2
   > [**Quicktics**](https://github.com/Joseph-hackathon/hackathon/blob/main/Build%20On%20%232.md) — A user-friendly platform that enables easy blockchain data analysis and visualization without the need for SQL queries.
 
+  ##### Ethena Hackathon
+  > [**ETHENA Prediction**]() — Prediction Market
+
   </div>
   </details>
 
