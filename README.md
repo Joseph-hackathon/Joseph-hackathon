@@ -27,7 +27,7 @@ Please enjoy.
 <br></br>
 ## 📌 My Links!
 <div id="badges">
-  <a href="https://www.linkedin.com/in/seongjae-cho-a15490261/">
+  <a href="https://www.linkedin.com/in/seongjae-cho/">
     <img src="https://img.shields.io/badge/Seogjae Cho-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UC00Sml4bBWzSyURSt0RZRrg">
