@@ -6,6 +6,7 @@ Please enjoy.
 <br></br>
 ## 👨🏻‍💻 About me
 - I'm Project & Product Manger
+- Building re Labs and INFT Protocol
 - 👨‍💻 2 Experience Blockchain project manager
 - 👨‍💻 1 Experience AI Security engineer
 - 🎓 Completed information security education course (Education by. K-Shield.jr)
