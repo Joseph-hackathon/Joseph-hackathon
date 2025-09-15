@@ -7,7 +7,7 @@ graph TD
     A[Tokenized RWA Providers] -->|Backed Finance: Stocks| B[Bridge to Solana]
     A -->|Matrixdock: Gold| B
 
-    B --> C[Solana Network]
+    B --> C[Wrapped Solana Network]
     C --> D[Tokenized Asset Vault]
 
     D --> E[Lending Protocol on Solana]
