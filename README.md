@@ -2,6 +2,22 @@
 This section contains portfolios and reviews of hackathons we have participated in so far.
 Please enjoy.
 
+```mermaid
+graph TD
+    A[Tokenized RWA Providers] -->|Backed Finance: Stocks| B[Bridge to Solana]
+    A -->|Matrixdock: Gold| B
+
+    B --> C[Solana Network]
+    C --> D[Tokenized Asset Vault]
+
+    D --> E[Lending Protocol on Solana]
+    E --> F[Borrower Deposits Tokenized Stock as Collateral]
+    E --> G[Lending Pool Provides Stablecoin Loan]
+
+    F --> H[Borrower Receives Loan Against Collateral]
+    G --> H
+```
+
 **Joseph-hackathon/Joseph-hackathon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <br></br>
 ## 👨🏻‍💻 About me
